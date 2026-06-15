@@ -4,6 +4,11 @@
 ehthumbs.db
 Thumbs.db
 
+# NocoDB deploy sensitive files
+# ===========
+oec-4-fnOS-deploy/password.csv
+oec-4-fnOS-deploy/configs/.env
+
 
 # Node and related ecosystem
 # ==========================
